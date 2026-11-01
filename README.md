@@ -72,29 +72,6 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
-  <a href="https://github.com/NDnovak/teste">
-    <h1>🖥️</h1>
-    <b>TV Store</b>
-    <br/>
-    <sub>Projeto de desenvolvimento web</sub>
-    <br/>
-    <sub>HTML • CSS • JavaScript</sub>
-    <br/><br/>
-    🔗 Acessar projeto
-  </a>
-
-</div>
-
-<p align="center">
-  <i>Projetos desenvolvidos durante meus estudos e experiências práticas.</i>
-</p>
-
----
-
-## 📁 Projetos em destaque
-
-<div align="center">
-
 ### 🖥️ TV Store
 
 **Projeto de desenvolvimento web**
@@ -115,19 +92,25 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
-| 📈 GitHub Stats | 💻 Top Languages | 🔥 Current Streak |
-|:---:|:---:|:---:|
-| Estatísticas gerais | Linguagens utilizadas | Dias consecutivos |
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
+    alt="Estatísticas do GitHub"
+  />
 
-| 🏆 Longest Streak | 📅 Contributions | 🚀 Evolution |
-|:---:|:---:|:---:|
-| Maior sequência | Total de contribuições | Aprendizado contínuo |
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&langs_count=6"
+    alt="Linguagens mais utilizadas"
+  />
 
-<br/>
+  <br/><br/>
 
-[🔗 Acessar meu GitHub](https://github.com/NDnovak)
-
-</div>
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
+  />
 
 ---
 
