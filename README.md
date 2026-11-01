@@ -121,9 +121,12 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <a href="https://www.linkedin.com/in/danilo-novak-397b8329a/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=simpleicons&logoColor=white"
+    src="https://cdn.simpleicons.org/linkedin/FFFFFF"
+    width="18"
+    height="18"
     alt="LinkedIn"
   />
+  LinkedIn
 </a>
 
   <a href="https://www.instagram.com/danilonovak_/">
