@@ -34,13 +34,10 @@
 
 <h3 align="center">👨‍💻 Sobre mim</h3>
 
-<div align="center">
-
-
-Nome       : Danilo Novak <br>
-Área       : Fiscal / Assistente <br> 
-Formação   : Engenharia de Software em andamento <br>
-Interesses : Tecnologia e desenvolvimento de software
+- **Nome:** Danilo Novak
+- **Área:** Fiscal / Assistente
+- **Formação:** Engenharia de Software em andamento
+- **Interesses:** Tecnologia e desenvolvimento de software
 
 </div>
 
