@@ -68,15 +68,19 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ---
 
- ## 📁 Projetos em destaque
+## 📁 Projetos em destaque
 
 <div align="center">
 
   <a href="https://github.com/NDnovak/teste">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=NDnovak&repo=teste&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
-      alt="Projeto TV Store"
-    />
+    <h1>🖥️</h1>
+    <b>TV Store</b>
+    <br/>
+    <sub>Projeto de desenvolvimento web</sub>
+    <br/>
+    <sub>HTML • CSS • JavaScript</sub>
+    <br/><br/>
+    🔗 Acessar projeto
   </a>
 
 </div>
@@ -91,25 +95,57 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
-    alt="Estatísticas do GitHub"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <h1>📈</h1>
+        <b>GitHub Stats</b>
+        <br/>
+        <sub>Estatísticas gerais</sub>
+      </td>
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&langs_count=6"
-    alt="Linguagens mais utilizadas"
-  />
+      <td align="center">
+        <h1>💻</h1>
+        <b>Top Languages</b>
+        <br/>
+        <sub>Linguagens utilizadas</sub>
+      </td>
 
-  <br/><br/>
+      <td align="center">
+        <h1>🔥</h1>
+        <b>Current Streak</b>
+        <br/>
+        <sub>Dias consecutivos</sub>
+      </td>
+    </tr>
 
-  <img
-    width="80%"
-    src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
-    alt="GitHub Streak"
-  />
+    <tr>
+      <td align="center">
+        <h1>🏆</h1>
+        <b>Longest Streak</b>
+        <br/>
+        <sub>Maior sequência</sub>
+      </td>
+
+      <td align="center">
+        <h1>📅</h1>
+        <b>Contributions</b>
+        <br/>
+        <sub>Total de contribuições</sub>
+      </td>
+
+      <td align="center">
+        <h1>🚀</h1>
+        <b>Evolution</b>
+        <br/>
+        <sub>Aprendizado contínuo</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://
 
 ---
 
