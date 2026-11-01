@@ -36,11 +36,12 @@
 
 <div align="center">
 
-
+<pre>
 Nome       : Danilo Novak
 Área       : Fiscal / Assistente
 Formação   : Engenharia de Software em andamento
 Interesses : Tecnologia e desenvolvimento de software
+</pre>
 
 </div>
 
