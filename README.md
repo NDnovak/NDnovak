@@ -1,5 +1,3 @@
-# Danilo Novak
-
 <!-- BANNER -->
 <div align="center">
 
@@ -112,60 +110,6 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
     src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
   />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NDnovak&bg_color=0D1117&color=FFFFFF&line=FF3030&point=FF5555&area=true&area_color=800000&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub"
-    width="100%"
-    alt="Gráfico de atividade"
-  />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=NDnovak&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
-    width="100%"
-    alt="Conquistas GitHub"
-  />
-
-</div>
-
----
-
-## 🐍 Snake Contribution
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-contribution-grid-snake-dark.svg"
-      alt="Snake Contribution"
-      width="100%"
-    />
-  </picture>
 
 </div>
 
