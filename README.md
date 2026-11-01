@@ -109,6 +109,8 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
+<div align="center">
+
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:800000,100:090909&height=110&section=footer"
     width="100%"
