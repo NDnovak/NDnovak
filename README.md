@@ -43,5 +43,66 @@
 ```text
 Nome       : Danilo Novak
 Área       : Fiscal
+
+    <h3 align="center">🖥️ TV Store</h3>
+
+    <p align="center">
+      <img
+        src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+        alt="HTML5"
+      />
+      <img
+        src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
+        alt="CSS3"
+      />
+    </p>
+
+    <p align="center">
+      Projeto de interface web com páginas de produtos,
+      categorias e acessórios, desenvolvido durante os estudos.
+    </p>
+
+    <p align="center">
+      <a href="https://github.com/NDnovak/teste">
+        <img
+          src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-7F0000?style=for-the-badge&logo=github&logoColor=white"
+          alt="Ver repositório"
+        />
+      </a>
+    </p>
+
+  </td>
+  <td width="50%" valign="top">
+
+    <h3 align="center">❤️ Coração Animado</h3>
+
+    <p align="center">
+      <img
+        src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+        alt="HTML5"
+      />
+      <img
+        src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"
+        alt="CSS3"
+      />
+      <img
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
+        alt="JavaScript"
+      />
+    </p>
+
+    <p align="center">
+      Projeto de estudo voltado à criação de animações
+      e interações utilizando tecnologias web.
+    </p>
+
+    <p align="center">
+      <i>Adicione aqui o link do repositório quando publicar o projeto.</i>
+    </p>
+
+  </td>
+</tr>
+
+
 Formação   : Engenharia de Software em andamento
 Interesses : Tecnologia e desenvolvimento de software
