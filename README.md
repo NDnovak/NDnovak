@@ -92,32 +92,25 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
-  ### 📈 GitHub Stats
-  🏆 **Estatísticas gerais:** Evoluindo a cada projeto
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
+    alt="Estatísticas do GitHub"
+  />
 
-  ### 💻 Top Languages
-  🧑‍💻 **Tecnologias:** HTML • CSS • JavaScript
-
-  ### 🔥 GitHub Streak
-  🚀 **Atividade:** Aprendizado e desenvolvimento constante
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&langs_count=6"
+    alt="Linguagens mais utilizadas"
+  />
 
   <br/><br/>
 
-  **📅 Sempre buscando evoluir e contribuir com novos projetos.**
-
-</div>
-
----
-
-<div align="center">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:800000,100:090909&height=110&section=footer"
-    width="100%"
-    alt="Rodapé"
+    width="80%"
+    src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
   />
-
-</div>
 
 ---
 
