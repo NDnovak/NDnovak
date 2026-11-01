@@ -91,61 +91,43 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ---
 
+## 📁 Projetos em destaque
+
+<div align="center">
+
+### 🖥️ TV Store
+
+**Projeto de desenvolvimento web**
+
+`HTML` • `CSS` • `JavaScript`
+
+[🔗 Acessar projeto](https://github.com/NDnovak/teste)
+
+</div>
+
+<p align="center">
+  <i>Projetos desenvolvidos durante meus estudos e experiências práticas.</i>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center">
-        <h1>📈</h1>
-        <b>GitHub Stats</b>
-        <br/>
-        <sub>Estatísticas gerais</sub>
-      </td>
+| 📈 GitHub Stats | 💻 Top Languages | 🔥 Current Streak |
+|:---:|:---:|:---:|
+| Estatísticas gerais | Linguagens utilizadas | Dias consecutivos |
 
-      <td align="center">
-        <h1>💻</h1>
-        <b>Top Languages</b>
-        <br/>
-        <sub>Linguagens utilizadas</sub>
-      </td>
+| 🏆 Longest Streak | 📅 Contributions | 🚀 Evolution |
+|:---:|:---:|:---:|
+| Maior sequência | Total de contribuições | Aprendizado contínuo |
 
-      <td align="center">
-        <h1>🔥</h1>
-        <b>Current Streak</b>
-        <br/>
-        <sub>Dias consecutivos</sub>
-      </td>
-    </tr>
+<br/>
 
-    <tr>
-      <td align="center">
-        <h1>🏆</h1>
-        <b>Longest Streak</b>
-        <br/>
-        <sub>Maior sequência</sub>
-      </td>
+[🔗 Acessar meu GitHub](https://github.com/NDnovak)
 
-      <td align="center">
-        <h1>📅</h1>
-        <b>Contributions</b>
-        <br/>
-        <sub>Total de contribuições</sub>
-      </td>
-
-      <td align="center">
-        <h1>🚀</h1>
-        <b>Evolution</b>
-        <br/>
-        <sub>Aprendizado contínuo</sub>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <a href="https://
+</div>
 
 ---
 
