@@ -89,50 +89,27 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&theme=dark"
-       height="180" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
+    alt="Estatísticas do GitHub"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&theme=dark"
-       height="180" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&langs_count=6"
+    alt="Linguagens mais utilizadas"
+  />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=NDnovak&theme=dark"
-       width="80%" />
-
-</div>
----
-
-## 🌐 Redes sociais
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/danilo-novak-397b8329a/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=simpleicons&logoColor=white"
-    alt="LinkedIn"
+    width="80%"
+    src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
+    alt="GitHub Streak"
   />
-</a>
-
-  <a href="https://www.instagram.com/danilonovak_/">
-    <img
-      src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="https://github.com/NDnovak">
-    <img
-      src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-</div>
 
 ---
 
