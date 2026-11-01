@@ -47,10 +47,10 @@ Minha trajetória une a experiência profissional na área fiscal com o interess
 
 Estou construindo minha base na programação por meio dos estudos e de projetos práticos, buscando evoluir constantemente e transformar conhecimento em soluções.
 
-- 💼 Área profissional: Fiscal / Assistente.
-- 🎓 Formação: Engenharia de Software em andamento.
-- 💻 Interesse: Tecnologia e desenvolvimento de software.
-- 🚀 Objetivo: Evoluir tecnicamente e desenvolver projetos cada vez melhores.
+- 💼 **Área profissional:** Fiscal / Assistente.
+- 🎓 **Formação:** Engenharia de Software em andamento.
+- 💻 **Interesse:** Tecnologia e desenvolvimento de software.
+- 🚀 **Objetivo:** Evoluir tecnicamente e desenvolver projetos cada vez melhores.
 
 ---
 
