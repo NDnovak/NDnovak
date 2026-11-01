@@ -31,8 +31,10 @@
 </div>
 
 ---
-## 👨‍💻 Sobre mim
 
+<h3 align="center">👨‍💻 Sobre mim</h3>
+
+<div align="center">
 
 ```text
 Nome       : Danilo Novak
@@ -73,7 +75,6 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
----
 ### 🖥️ TV Store
 
 
