@@ -32,7 +32,9 @@
 
 ---
 
+
 ## 👨‍💻 Sobre mim
+
 
 ```text
 Nome       : Danilo Novak
@@ -54,7 +56,9 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ---
 
+
 ## 🛠️ Tecnologias & Ferramentas
+
 
 <div align="center">
 
@@ -68,7 +72,9 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ---
 
+
 ## 📁 Projetos em destaque
+
 
 <div align="center">
 
@@ -107,7 +113,9 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ---
 
+
 ## 🐍 Snake Contributions
+
 
 <div align="center">
   <img
@@ -129,6 +137,5 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 </div>
 
----
 
 </div>
