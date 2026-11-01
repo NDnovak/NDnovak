@@ -34,7 +34,7 @@
 
 <h3 align="center">👨‍💻 Sobre mim</h3>
 
-<div align="center">
+<div align="center"</div>
 
 ```text
 Nome       : Danilo Novak
