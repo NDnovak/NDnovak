@@ -6,7 +6,37 @@
         <stop offset="100%" stop-col<svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0d1117" />
+        <stop offset="0%" stCrie um README.md personalizado para o meu perfil do GitHub.
+
+Quero um visual moderno, profissional e com personalidade, sem aparência de template genérico ou texto feito por IA.
+
+Use minhas informações:
+
+👤 Nome: Danilo Novak
+💻 Área/cargo: Fiscal / assistente / cursando engenharia de sofware
+🎨 Estilo/cores: preto e vermelho
+🌐 LinkedIn: https://www.linkedin.com/in/danilo-novak-397b8329a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📸 Instagram: https://www.instagram.com/danilonovak_/
+Inclua:
+- Banner personalizado
+- Typing animation
+- Sobre mim
+- Tecnologias com ícones
+- Projetos em cards
+- GitHub Stats
+- Top Languages
+- Streak
+- Activity Graph
+- GitHub Trophies
+- Snake Contribution
+- Redes sociais
+- Rodapé personalizado
+
+Use apenas recursos compatíveis com GitHub, como Markdown, HTML, SVG, Shields.io e GitHub Actions.
+
+Não invente informações sobre mim.
+
+Entregue o README.md completo em um único bloco de código, pronto para copiar e colar.op-color="#0d1117" />
         <stop offset="50%" stop-color="#161b22" />
         <stop offset="100%" stop-color="#050505" />
       </linearGradient>
