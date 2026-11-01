@@ -31,10 +31,8 @@
 </div>
 
 ---
-
-
 ## 👨‍💻 Sobre mim
-
+---
 
 ```text
 Nome       : Danilo Novak
@@ -55,10 +53,8 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 - 🚀 Objetivo: Evoluir tecnicamente e desenvolver projetos cada vez melhores.
 
 ---
-
-
 ## 🛠️ Tecnologias & Ferramentas
-
+---
 
 <div align="center">
 
@@ -71,14 +67,14 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 </div>
 
 ---
-
-
 ## 📁 Projetos em destaque
-
+---
 
 <div align="center">
 
+---
 ### 🖥️ TV Store
+---
 
 **Projeto de desenvolvimento web**
 
@@ -93,8 +89,8 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 </p>
 
 ---
-
 ## 📊 GitHub Stats
+---
 
 <div align="center">
 
@@ -112,10 +108,8 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 </div>
 
 ---
-
-
 ## 🐍 Snake Contributions
-
+---
 
 <div align="center">
   <img
