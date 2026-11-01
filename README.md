@@ -109,16 +109,10 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
-<div align="center">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:800000,100:090909&height=110&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:800000,100:090909&height=180&section=footer&text=DANILO%20NOVAK&fontSize=35&fontColor=FFFFFF&fontAlignY=55&desc=Construindo%20conhecimento.%20Desenvolvendo%20ideias.%20Evoluindo%20constantemente.&descSize=12&descAlignY=75&descColor=FFFFFF"
     width="100%"
-    alt="Rodapé"
+    alt="DANILO NOVAK - Construindo conhecimento. Desenvolvendo ideias. Evoluindo constantemente."
   />
-
-  **DANILO NOVAK**
-
-  <sub>Construindo conhecimento. Desenvolvendo ideias. Evoluindo constantemente.</sub>
 
 </div>
