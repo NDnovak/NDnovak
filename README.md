@@ -105,14 +105,6 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 </div>
 
-  <br/><br/>
-
-  <img
-    width="80%"
-    src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
-    alt="GitHub Streak"
-  />
-
 ---
 
 <div align="center">
