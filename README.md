@@ -107,6 +107,30 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 ---
 
+## 🐍 Snake Contributions
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake.svg">
+
+    <img
+      alt="Animação da cobrinha percorrendo minhas contribuições"
+      src="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+
+</div>
+
+---
+
+---
+
 <div align="center">
 
   <img
