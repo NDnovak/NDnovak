@@ -92,22 +92,24 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 <div align="center">
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats.vercel.app/api?username=NDnovak&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF"
+    height="180"
+    width="49%"
+    alt="GitHub Stats"
   />
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&langs_count=6"
-    alt="Linguagens mais utilizadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDnovak&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3030&text_color=FFFFFF&langs_count=6"
+    height="180"
+    width="49%"
+    alt="Top Languages"
   />
 
   <br/><br/>
 
   <img
+    src="https://streak-stats.demolab.com/?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
     width="80%"
-    src="https://streak-stats.demolab.com?user=NDnovak&theme=dark&hide_border=true&background=0D1117&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=FFFFFF&dates=AAAAAA"
     alt="GitHub Streak"
   />
 
