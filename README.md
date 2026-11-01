@@ -92,7 +92,7 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 
 <div align="center">
 
-  📈 **Estatísticas do GitHub** 
+  📈 **Estatísticas do GitHub**
   💻 **Linguagens mais utilizadas**
 
   <br/><br/>
@@ -110,24 +110,24 @@ Estou construindo minha base na programação por meio dos estudos e de projetos
 ## 🐍 Snake Contributions
 
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake-dark.svg">
-
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake.svg">
-
-    <img
-      alt="Animação da cobrinha percorrendo minhas contribuições"
-      src="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/NDnovak/NDnovak/output/github-snake-dark.svg"
+    alt="Snake Contributions"
+    width="100%"
+  />
 </div>
 
 ---
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:800000,100:090909&height=180&section=footer&text=DANILO%20NOVAK&fontSize=35&fontColor=FFFFFF&fontAlignY=55&desc=Construindo%20conhecimento.%20Desenvolvendo%20ideias.%20Evoluindo%20constantemente.&descSize=12&descAlignY=75&descColor=FFFFFF"
+    width="100%"
+    alt="DANILO NOVAK"
+  />
+
+</div>
 
 ---
 
