@@ -34,14 +34,16 @@
 
 <h3 align="center">👨‍💻 Sobre mim</h3>
 
-<div align="center"</div>
+<div align="center">
 
-```text
+    <pre>
 Nome       : Danilo Novak
 Área       : Fiscal / Assistente
 Formação   : Engenharia de Software em andamento
 Interesses : Tecnologia e desenvolvimento de software
-```
+    </pre>
+
+</div>
 
 Sou profissional da área fiscal, atuando como assistente, e atualmente curso **Engenharia de Software**.
 
